@@ -34,6 +34,9 @@ body {
     border-radius: 15%;
     box-shadow: 0 10px 10px rgb(0, 179, 60);
 }
+.para-hi-visitor {
+    font-size: 18px;
+}
 .hi-visitor {
     border: 1px solid white;
     border-radius: 10%;
